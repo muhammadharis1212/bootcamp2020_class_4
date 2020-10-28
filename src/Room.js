@@ -3,7 +3,7 @@ import './Room.css';
 
 function Room(){
     let [isLit, setLit] = useState(false);
-    let [temp, setTemp] = useState(0);
+    let [temp, setTemp] = useState(24);
     function toggleLight()
     {
         
