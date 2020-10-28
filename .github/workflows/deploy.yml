@@ -27,9 +27,7 @@ jobs:
         uses: actions/setup-node@v2.1.2
 
       # Runs a set of commands using the runners shell
-      - name: install surge
-        run: sudo install surge
-
+      
       - name: install surge
         run: sudo npm install --global surge 
 
