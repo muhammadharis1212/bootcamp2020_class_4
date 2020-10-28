@@ -1,0 +1,15 @@
+.room{
+    height: 100vh;
+    font-size: large;
+    padding-left: 20px;
+}
+.dark {
+    background-color: black;
+    font-size: large;
+    color: white;
+}
+.lit{
+    background-color: white;
+    font-size: large;
+    color: black;
+}
